@@ -1,0 +1,29 @@
+{
+  "name": "requestly-api-usage-examples",
+  "version": "1.0.0",
+  "description": "Learn how to manage rules in a workspace in your CI/CD workflows using Requestly APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/requestly/api-usage-examples.git"
+  },
+  "keywords": [
+    "Requestly",
+    "APIs",
+    "Javascript",
+    "Testing",
+    "Automation"
+  ],
+  "author": "Sachin Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/requestly/api-usage-examples/issues"
+  },
+  "homepage": "https://github.com/requestly/api-usage-examples#readme",
+  "dependencies": {
+    "api": "^6.1.1"
+  }
+}
