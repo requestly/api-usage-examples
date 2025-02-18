@@ -2,8 +2,8 @@
 Examples of how to manage rules in a workspace through APIs.
 
 ## References
-- Documentation - https://developers.requestly.io/api/overview/
-- Playground - https://readme.requestly.io
+- Documentation - https://docs.requestly.com/public-apis/overview
+- Playground - https://requestly.readme.io/
 
 ## Code Usage
 
